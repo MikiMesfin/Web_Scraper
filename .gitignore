@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+# NLTK data
+nltk_data/
+
+# Virtual Environment
+venv/
+env/
+
+# Data and Visualizations (optional, depending if you want to track these)
+data/
+visualizations/ 
